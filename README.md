@@ -1,10 +1,7 @@
 # Tecnologia utilizadas
-## back end
 - Kotlin
 - Spring Boot 
 - MongoDB
-
-## Testes 
 - JUnit
 
 ## Dependecias do projeto
