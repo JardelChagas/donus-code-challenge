@@ -14,8 +14,8 @@
 ![](src/main/resources/static/images/POST.png)
 - [x] Fazendo depositando <br> 
 ![](src/main/resources/static/images/deposit.png)
-[x] Fazendo Transferencia <br>
-- ![](src/main/resources/static/images/transfer.png)
+- [x] Fazendo Transferencia <br>
+![](src/main/resources/static/images/transfer.png)
 
 # Como executar o projeto
 ainda para fazer
