@@ -9,12 +9,13 @@
 - Spring Data MongoDB
 - Embedded MongoDB Database
 
+# Corpo das requisições 
+- [x] Criando a conta
+- ![](src/main/resources/static/images/POST.png)
+- [x] Fazendo depositando 
+- ![](src/main/resources/static/images/deposit.png)
+- [x] Fazendo Transferencia
+- ![](src/main/resources/static/images/transfer.png)
+
 # Como executar o projeto
 ainda para fazer
-# Corpo das requisições 
-## Criando a conta
-![](src/main/resources/static/images/POST.png)
-## Fazendo depositando 
-![](src/main/resources/static/images/deposit.png)
-## Fazendo Transferencia
-![](src/main/resources/static/images/transfer.png)
