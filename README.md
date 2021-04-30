@@ -10,8 +10,8 @@
 - Embedded MongoDB Database
 
 # Corpo das requisições 
-- [x] Criando a conta
-- ![](src/main/resources/static/images/POST.png)
+- [x] Criando a conta<br>
+ ![](src/main/resources/static/images/POST.png)
 - [x] Fazendo depositando 
 - ![](src/main/resources/static/images/deposit.png)
 - [x] Fazendo Transferencia
