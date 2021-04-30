@@ -56,6 +56,7 @@ data class Account(
             return true
         return false
     }
+
     fun deposit(deposit: Double) {
         balance = balance!! + deposit
     }
