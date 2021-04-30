@@ -5,7 +5,7 @@
 - Spring Boot 
 - Kotlin
 - MongoDB
-- 
+
 ## Testes 
 - JUnit
 
@@ -21,4 +21,4 @@
 
 # Como executar o projeto
 ainda para fazer
-# Um
+# Um pouco sobre as requisições 
