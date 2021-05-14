@@ -17,7 +17,3 @@
 - [x] Fazendo Transferencia <br><br>
   ![](src/main/resources/static/images/transfer.png)
 
-# Como executar o projeto
-```
-ainda para fazer
-```
